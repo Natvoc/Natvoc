@@ -10,3 +10,5 @@ I am a software engineer, passionate about new technologies and the creation of 
 - 📫 How to reach me: You can visit my website [natyari.com](https://natyari.com) or my [instagram](https://www.instagram.com/natvoc)
 
 - ⚡ Fun fact: I always find myself learning some technology or language.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natvoc)](https://github.com/anuraghazra/github-readme-stats)
