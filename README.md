@@ -11,4 +11,4 @@ I am a software engineer, passionate about new technologies and the creation of 
 
 - ⚡ Fun fact: I always find myself learning some technology or language.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natvoc)](https://github.com/anuraghazra/github-readme-stats)
+
