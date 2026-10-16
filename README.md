@@ -195,6 +195,3 @@ And eventually:
 📷 [Instagram](https://www.instagram.com/natyarivargas/)  
 💻 [CodePen](https://codepen.io/natyari)
 
----
-
-> **Build the instrument. Run the experiment. Follow the evidence.**
