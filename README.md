@@ -2,7 +2,7 @@
 
 ### Software Engineer · Independent Researcher · Builder
 
-I build software to investigate complex systems — from intelligent investment systems and cognitive architectures to artificial observers and the mechanisms underlying intelligent behavior.
+I build software to investigate complex systems from intelligent investment systems and cognitive architectures to artificial observers and the mechanisms underlying intelligent behavior.
 
 My work sits at the intersection of:
 
